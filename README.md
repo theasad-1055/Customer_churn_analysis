@@ -1,4 +1,4 @@
-#📊 Customer Churn Analysis
+<h3>📊 Customer Churn Analysis </h3>
 
 This repository contains a data analysis project focused on Customer Churn Prediction and Insights. The project explores customer behavior, identifies key drivers of churn, and provides strategies to improve customer retention.
 
