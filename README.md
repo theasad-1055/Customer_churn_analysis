@@ -1,8 +1,8 @@
-<h3>📊 Customer Churn Analysis </h3>
+<h3>Customer Churn Analysis </h3>
 
 This repository contains a data analysis project focused on Customer Churn Prediction and Insights. The project explores customer behavior, identifies key drivers of churn, and provides strategies to improve customer retention.
 
-<h4>📂 Project Files </h4>
+<h4>Project Files </h4>
 
 <h5>.</h5>  TCA.ipynb → Jupyter Notebook with full Exploratory Data Analysis (EDA), data cleaning, and visualization.
 
@@ -10,7 +10,7 @@ This repository contains a data analysis project focused on Customer Churn Predi
 
 <h5>.</h5>  Customer_Churn_Executive_Summary.pdf → Executive summary highlighting key findings, percentages, and strategic insights.
 
-<h4>🔑 Key Highlights </h4>
+<h4>Key Highlights </h4>
 
 <h5>.</h5>  Cleaned and prepared customer churn dataset.
 
